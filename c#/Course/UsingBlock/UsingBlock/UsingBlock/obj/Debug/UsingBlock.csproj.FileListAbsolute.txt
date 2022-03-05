@@ -1,0 +1,8 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\bin\Debug\UsingBlock.exe.config
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\bin\Debug\UsingBlock.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\bin\Debug\UsingBlock.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\obj\Debug\UsingBlock.csproj.AssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\obj\Debug\UsingBlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\obj\Debug\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\obj\Debug\UsingBlock.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Udemy\UsingBlock\UsingBlock\UsingBlock\obj\Debug\UsingBlock.pdb

@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\bin\Debug\netcoreapp2.1\CriandoStruct.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\bin\Debug\netcoreapp2.1\CriandoStruct.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\bin\Debug\netcoreapp2.1\CriandoStruct.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\bin\Debug\netcoreapp2.1\CriandoStruct.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\bin\Debug\netcoreapp2.1\CriandoStruct.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\obj\Debug\netcoreapp2.1\CriandoStruct.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\obj\Debug\netcoreapp2.1\CriandoStruct.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\obj\Debug\netcoreapp2.1\CriandoStruct.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\obj\Debug\netcoreapp2.1\CriandoStruct.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\obj\Debug\netcoreapp2.1\CriandoStruct.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\STRUCT\CriandoStruct\CriandoStruct\obj\Debug\netcoreapp2.1\CriandoStruct.pdb

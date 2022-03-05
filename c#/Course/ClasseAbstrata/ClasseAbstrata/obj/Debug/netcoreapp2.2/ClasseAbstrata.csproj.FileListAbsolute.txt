@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.2\ClasseAbstrata.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.2\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.2\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.2\ClasseAbstrata.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.2\ClasseAbstrata.deps.json
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.2\ClasseAbstrata.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.2\ClasseAbstrata.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.2\ClasseAbstrata.dll
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp2.2\ClasseAbstrata.pdb
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.2\ClasseAbstrata.dll
+C:\temp\WS_2021\Projects\C#\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp2.2\ClasseAbstrata.pdb

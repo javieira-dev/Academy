@@ -1,0 +1,17 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\bin\Debug\netcoreapp2.1\CalcLadoTriangulo.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\bin\Debug\netcoreapp2.1\CalcLadoTriangulo.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\bin\Debug\netcoreapp2.1\CalcLadoTriangulo.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\bin\Debug\netcoreapp2.1\CalcLadoTriangulo.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\bin\Debug\netcoreapp2.1\CalcLadoTriangulo.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\LadoQuadrado\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\LadoQuadrado OrientObj1\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\LadoQuadrado OrientObj1\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\LadoQuadrado OrientObj1\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\LadoQuadrado OrientObj1\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\LadoQuadrado OrientObj1\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\LadoQuadrado OrientObj1\CalcLadoTriangulo\CalcLadoTriangulo\obj\Debug\netcoreapp2.1\CalcLadoTriangulo.pdb

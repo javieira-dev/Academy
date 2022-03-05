@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\obj\Debug\netcoreapp2.1\Exercicio Wile.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\obj\Debug\netcoreapp2.1\Exercicio Wile.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\obj\Debug\netcoreapp2.1\Exercicio Wile.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\obj\Debug\netcoreapp2.1\Exercicio Wile.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\bin\Debug\netcoreapp2.1\Exercicio Wile.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\bin\Debug\netcoreapp2.1\Exercicio Wile.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\bin\Debug\netcoreapp2.1\Exercicio Wile.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\bin\Debug\netcoreapp2.1\Exercicio Wile.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\bin\Debug\netcoreapp2.1\Exercicio Wile.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\obj\Debug\netcoreapp2.1\Exercicio Wile.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\Exercicio Wile\Exercicio Wile\obj\Debug\netcoreapp2.1\Exercicio Wile.pdb

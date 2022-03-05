@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp2.2\Exerc_Matriz.deps.json
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp2.2\Exerc_Matriz.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp2.2\Exerc_Matriz.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp2.2\Exerc_Matriz.dll
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\bin\Debug\netcoreapp2.2\Exerc_Matriz.pdb
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp2.2\Exerc_Matriz.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp2.2\Exerc_Matriz.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp2.2\Exerc_Matriz.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp2.2\Exerc_Matriz.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp2.2\Exerc_Matriz.dll
+C:\temp\WS_2021\Projects\C#\Exerc_Matriz\Exerc_Matriz\obj\Debug\netcoreapp2.2\Exerc_Matriz.pdb

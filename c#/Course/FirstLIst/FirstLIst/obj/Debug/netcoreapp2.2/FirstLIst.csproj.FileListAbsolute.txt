@@ -1,0 +1,11 @@
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\bin\Debug\netcoreapp2.2\FirstLIst.deps.json
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\bin\Debug\netcoreapp2.2\FirstLIst.runtimeconfig.json
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\bin\Debug\netcoreapp2.2\FirstLIst.runtimeconfig.dev.json
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\bin\Debug\netcoreapp2.2\FirstLIst.dll
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\bin\Debug\netcoreapp2.2\FirstLIst.pdb
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\obj\Debug\netcoreapp2.2\FirstLIst.csprojAssemblyReference.cache
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\obj\Debug\netcoreapp2.2\FirstLIst.csproj.CoreCompileInputs.cache
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\obj\Debug\netcoreapp2.2\FirstLIst.AssemblyInfoInputs.cache
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\obj\Debug\netcoreapp2.2\FirstLIst.AssemblyInfo.cs
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\obj\Debug\netcoreapp2.2\FirstLIst.dll
+C:\Users\javieira\source\repos\FirstLIst\FirstLIst\obj\Debug\netcoreapp2.2\FirstLIst.pdb

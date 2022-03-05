@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\bin\Debug\netcoreapp2.2\SobreposicaoSobrescrita.deps.json
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\bin\Debug\netcoreapp2.2\SobreposicaoSobrescrita.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\bin\Debug\netcoreapp2.2\SobreposicaoSobrescrita.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\bin\Debug\netcoreapp2.2\SobreposicaoSobrescrita.dll
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\bin\Debug\netcoreapp2.2\SobreposicaoSobrescrita.pdb
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\obj\Debug\netcoreapp2.2\SobreposicaoSobrescrita.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\obj\Debug\netcoreapp2.2\SobreposicaoSobrescrita.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\obj\Debug\netcoreapp2.2\SobreposicaoSobrescrita.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\obj\Debug\netcoreapp2.2\SobreposicaoSobrescrita.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\obj\Debug\netcoreapp2.2\SobreposicaoSobrescrita.dll
+C:\temp\WS_2021\Projects\C#\SobreposicaoSobrescrita\SobreposicaoSobrescrita\obj\Debug\netcoreapp2.2\SobreposicaoSobrescrita.pdb

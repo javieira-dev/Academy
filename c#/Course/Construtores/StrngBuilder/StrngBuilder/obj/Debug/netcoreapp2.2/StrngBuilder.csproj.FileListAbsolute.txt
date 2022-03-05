@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\obj\Debug\netcoreapp2.2\StrngBuilder.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\obj\Debug\netcoreapp2.2\StrngBuilder.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\obj\Debug\netcoreapp2.2\StrngBuilder.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\obj\Debug\netcoreapp2.2\StrngBuilder.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\bin\Debug\netcoreapp2.2\StrngBuilder.deps.json
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\bin\Debug\netcoreapp2.2\StrngBuilder.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\bin\Debug\netcoreapp2.2\StrngBuilder.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\bin\Debug\netcoreapp2.2\StrngBuilder.dll
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\bin\Debug\netcoreapp2.2\StrngBuilder.pdb
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\obj\Debug\netcoreapp2.2\StrngBuilder.dll
+C:\temp\WS_2021\Projects\C#\StrngBuilder\StrngBuilder\obj\Debug\netcoreapp2.2\StrngBuilder.pdb

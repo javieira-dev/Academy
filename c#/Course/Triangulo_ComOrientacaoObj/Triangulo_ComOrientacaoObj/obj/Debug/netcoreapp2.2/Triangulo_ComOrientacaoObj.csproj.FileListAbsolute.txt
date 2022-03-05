@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\bin\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.deps.json
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\bin\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\bin\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\bin\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.dll
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\bin\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.pdb
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\obj\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\obj\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\obj\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\obj\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\obj\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.dll
+C:\temp\WS_2021\Projects\C#\Triangulo_ComOrientacaoObj\Triangulo_ComOrientacaoObj\obj\Debug\netcoreapp2.2\Triangulo_ComOrientacaoObj.pdb

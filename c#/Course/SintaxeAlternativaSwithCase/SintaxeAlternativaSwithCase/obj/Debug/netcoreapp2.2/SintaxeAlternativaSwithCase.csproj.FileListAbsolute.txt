@@ -1,0 +1,11 @@
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\bin\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.deps.json
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\bin\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.runtimeconfig.json
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\bin\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.runtimeconfig.dev.json
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\bin\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.dll
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\bin\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.pdb
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\obj\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.csprojAssemblyReference.cache
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\obj\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.csproj.CoreCompileInputs.cache
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\obj\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.AssemblyInfoInputs.cache
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\obj\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.AssemblyInfo.cs
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\obj\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.dll
+C:\Users\javieira\source\repos\SintaxeAlternativaSwithCase\SintaxeAlternativaSwithCase\obj\Debug\netcoreapp2.2\SintaxeAlternativaSwithCase.pdb

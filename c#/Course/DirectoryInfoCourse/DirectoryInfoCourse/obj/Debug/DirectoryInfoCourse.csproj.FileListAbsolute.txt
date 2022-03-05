@@ -1,0 +1,8 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\bin\Debug\DirectoryInfoCourse.exe.config
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\bin\Debug\DirectoryInfoCourse.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\bin\Debug\DirectoryInfoCourse.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\obj\Debug\DirectoryInfoCourse.csproj.AssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\obj\Debug\DirectoryInfoCourse.csproj.SuggestedBindingRedirects.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\obj\Debug\DirectoryInfoCourse.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\obj\Debug\DirectoryInfoCourse.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\DirectoryInfoCourse\DirectoryInfoCourse\obj\Debug\DirectoryInfoCourse.pdb

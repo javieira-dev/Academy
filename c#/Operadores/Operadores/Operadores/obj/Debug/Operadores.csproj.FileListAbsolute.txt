@@ -1,0 +1,7 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operadores\Operadores\Operadores\obj\Debug\Operadores.pdb

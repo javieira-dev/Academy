@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.deps.json
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.dll
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.pdb
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.dll
+C:\temp\WS_2021\Projects\C#\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.pdb

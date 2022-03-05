@@ -1,0 +1,10 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\bin\Debug\netcoreapp2.1\Wile.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\bin\Debug\netcoreapp2.1\Wile.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\bin\Debug\netcoreapp2.1\Wile.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\bin\Debug\netcoreapp2.1\Wile.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\bin\Debug\netcoreapp2.1\Wile.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\obj\Debug\netcoreapp2.1\Wile.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\obj\Debug\netcoreapp2.1\Wile.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\obj\Debug\netcoreapp2.1\Wile.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\obj\Debug\netcoreapp2.1\Wile.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\wile\Wile\Wile\obj\Debug\netcoreapp2.1\Wile.pdb

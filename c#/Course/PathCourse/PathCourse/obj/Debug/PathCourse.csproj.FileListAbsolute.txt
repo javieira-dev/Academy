@@ -1,0 +1,8 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\bin\Debug\PathCourse.exe.config
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\bin\Debug\PathCourse.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\bin\Debug\PathCourse.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\obj\Debug\PathCourse.csproj.AssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\obj\Debug\PathCourse.csproj.SuggestedBindingRedirects.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\obj\Debug\PathCourse.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\obj\Debug\PathCourse.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\PathCourse\PathCourse\obj\Debug\PathCourse.pdb

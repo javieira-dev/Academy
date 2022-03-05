@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\bin\Debug\netcoreapp2.1\exerc fix cap 5.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\bin\Debug\netcoreapp2.1\exerc fix cap 5.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\bin\Debug\netcoreapp2.1\exerc fix cap 5.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\bin\Debug\netcoreapp2.1\exerc fix cap 5.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\bin\Debug\netcoreapp2.1\exerc fix cap 5.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\obj\Debug\netcoreapp2.1\exerc fix cap 5.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\obj\Debug\netcoreapp2.1\exerc fix cap 5.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\obj\Debug\netcoreapp2.1\exerc fix cap 5.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\obj\Debug\netcoreapp2.1\exerc fix cap 5.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\obj\Debug\netcoreapp2.1\exerc fix cap 5.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FIXACAO CAP 5\exerc fix cap 5\exerc fix cap 5\obj\Debug\netcoreapp2.1\exerc fix cap 5.pdb

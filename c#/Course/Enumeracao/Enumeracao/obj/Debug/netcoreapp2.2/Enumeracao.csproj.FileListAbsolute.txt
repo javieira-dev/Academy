@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp2.2\Enumeracao.deps.json
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp2.2\Enumeracao.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp2.2\Enumeracao.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp2.2\Enumeracao.dll
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\bin\Debug\netcoreapp2.2\Enumeracao.pdb
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp2.2\Enumeracao.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp2.2\Enumeracao.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp2.2\Enumeracao.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp2.2\Enumeracao.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp2.2\Enumeracao.dll
+C:\temp\WS_2021\Projects\C#\Enumeracao\Enumeracao\obj\Debug\netcoreapp2.2\Enumeracao.pdb

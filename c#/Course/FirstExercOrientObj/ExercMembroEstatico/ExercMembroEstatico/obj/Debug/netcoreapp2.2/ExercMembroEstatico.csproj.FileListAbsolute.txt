@@ -1,0 +1,11 @@
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\obj\Debug\netcoreapp2.2\ExercMembroEstatico.csprojAssemblyReference.cache
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\obj\Debug\netcoreapp2.2\ExercMembroEstatico.csproj.CoreCompileInputs.cache
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\obj\Debug\netcoreapp2.2\ExercMembroEstatico.AssemblyInfoInputs.cache
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\obj\Debug\netcoreapp2.2\ExercMembroEstatico.AssemblyInfo.cs
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\bin\Debug\netcoreapp2.2\ExercMembroEstatico.deps.json
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\bin\Debug\netcoreapp2.2\ExercMembroEstatico.runtimeconfig.json
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\bin\Debug\netcoreapp2.2\ExercMembroEstatico.runtimeconfig.dev.json
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\bin\Debug\netcoreapp2.2\ExercMembroEstatico.dll
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\bin\Debug\netcoreapp2.2\ExercMembroEstatico.pdb
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\obj\Debug\netcoreapp2.2\ExercMembroEstatico.dll
+C:\Users\javieira\source\repos\ExercMembroEstatico\ExercMembroEstatico\obj\Debug\netcoreapp2.2\ExercMembroEstatico.pdb

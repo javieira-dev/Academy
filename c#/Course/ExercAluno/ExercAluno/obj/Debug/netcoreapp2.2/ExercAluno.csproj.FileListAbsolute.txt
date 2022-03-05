@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\bin\Debug\netcoreapp2.2\ExercAluno.deps.json
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\bin\Debug\netcoreapp2.2\ExercAluno.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\bin\Debug\netcoreapp2.2\ExercAluno.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\bin\Debug\netcoreapp2.2\ExercAluno.dll
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\bin\Debug\netcoreapp2.2\ExercAluno.pdb
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\obj\Debug\netcoreapp2.2\ExercAluno.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\obj\Debug\netcoreapp2.2\ExercAluno.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\obj\Debug\netcoreapp2.2\ExercAluno.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\obj\Debug\netcoreapp2.2\ExercAluno.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\obj\Debug\netcoreapp2.2\ExercAluno.dll
+C:\temp\WS_2021\Projects\C#\ExercAluno\ExercAluno\obj\Debug\netcoreapp2.2\ExercAluno.pdb

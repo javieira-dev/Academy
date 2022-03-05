@@ -1,0 +1,11 @@
+C:\Users\javieira\source\repos\Nullable\Nullable\obj\Debug\netcoreapp2.2\Nullable.csprojAssemblyReference.cache
+C:\Users\javieira\source\repos\Nullable\Nullable\obj\Debug\netcoreapp2.2\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\javieira\source\repos\Nullable\Nullable\obj\Debug\netcoreapp2.2\Nullable.AssemblyInfoInputs.cache
+C:\Users\javieira\source\repos\Nullable\Nullable\obj\Debug\netcoreapp2.2\Nullable.AssemblyInfo.cs
+C:\Users\javieira\source\repos\Nullable\Nullable\bin\Debug\netcoreapp2.2\Nullable.deps.json
+C:\Users\javieira\source\repos\Nullable\Nullable\bin\Debug\netcoreapp2.2\Nullable.runtimeconfig.json
+C:\Users\javieira\source\repos\Nullable\Nullable\bin\Debug\netcoreapp2.2\Nullable.runtimeconfig.dev.json
+C:\Users\javieira\source\repos\Nullable\Nullable\bin\Debug\netcoreapp2.2\Nullable.dll
+C:\Users\javieira\source\repos\Nullable\Nullable\bin\Debug\netcoreapp2.2\Nullable.pdb
+C:\Users\javieira\source\repos\Nullable\Nullable\obj\Debug\netcoreapp2.2\Nullable.dll
+C:\Users\javieira\source\repos\Nullable\Nullable\obj\Debug\netcoreapp2.2\Nullable.pdb

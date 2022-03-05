@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\bin\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.deps.json
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\bin\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\bin\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\bin\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.dll
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\bin\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.pdb
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\obj\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\obj\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\obj\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\obj\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\obj\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.dll
+C:\temp\WS_2021\Projects\C#\Matriz_AtividadeResolvida\Matriz_AtividadeResolvida\obj\Debug\netcoreapp2.2\Matriz_AtividadeResolvida.pdb

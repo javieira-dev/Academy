@@ -1,0 +1,33 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new 2\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\bin\Debug\netcoreapp2.1\Produto2.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\produto new3\Produto2\Produto2\obj\Debug\netcoreapp2.1\Produto2.pdb

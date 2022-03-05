@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\bin\Debug\netcoreapp2.2\UpCastingDownCasting.deps.json
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\bin\Debug\netcoreapp2.2\UpCastingDownCasting.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\bin\Debug\netcoreapp2.2\UpCastingDownCasting.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\bin\Debug\netcoreapp2.2\UpCastingDownCasting.dll
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\bin\Debug\netcoreapp2.2\UpCastingDownCasting.pdb
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\obj\Debug\netcoreapp2.2\UpCastingDownCasting.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\obj\Debug\netcoreapp2.2\UpCastingDownCasting.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\obj\Debug\netcoreapp2.2\UpCastingDownCasting.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\obj\Debug\netcoreapp2.2\UpCastingDownCasting.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\obj\Debug\netcoreapp2.2\UpCastingDownCasting.dll
+C:\temp\WS_2021\Projects\C#\UpCastingDownCasting\UpCastingDownCasting\obj\Debug\netcoreapp2.2\UpCastingDownCasting.pdb

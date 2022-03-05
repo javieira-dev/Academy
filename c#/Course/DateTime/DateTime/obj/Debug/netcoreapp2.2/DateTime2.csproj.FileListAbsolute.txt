@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\bin\Debug\netcoreapp2.2\DateTime2.deps.json
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\bin\Debug\netcoreapp2.2\DateTime2.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\bin\Debug\netcoreapp2.2\DateTime2.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\bin\Debug\netcoreapp2.2\DateTime2.dll
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\bin\Debug\netcoreapp2.2\DateTime2.pdb
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\obj\Debug\netcoreapp2.2\DateTime2.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\obj\Debug\netcoreapp2.2\DateTime2.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\obj\Debug\netcoreapp2.2\DateTime2.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\obj\Debug\netcoreapp2.2\DateTime2.dll
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\obj\Debug\netcoreapp2.2\DateTime2.pdb
+C:\temp\WS_2021\Projects\C#\DateTime\DateTime\obj\Debug\netcoreapp2.2\DateTime2.csprojAssemblyReference.cache

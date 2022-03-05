@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\bin\Debug\netcoreapp2.2\Vetores.deps.json
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\bin\Debug\netcoreapp2.2\Vetores.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\bin\Debug\netcoreapp2.2\Vetores.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\bin\Debug\netcoreapp2.2\Vetores.dll
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\bin\Debug\netcoreapp2.2\Vetores.pdb
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\obj\Debug\netcoreapp2.2\Vetores.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\obj\Debug\netcoreapp2.2\Vetores.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\obj\Debug\netcoreapp2.2\Vetores.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\obj\Debug\netcoreapp2.2\Vetores.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\obj\Debug\netcoreapp2.2\Vetores.dll
+C:\temp\WS_2021\Projects\C#\Vetores\Vetores\obj\Debug\netcoreapp2.2\Vetores.pdb

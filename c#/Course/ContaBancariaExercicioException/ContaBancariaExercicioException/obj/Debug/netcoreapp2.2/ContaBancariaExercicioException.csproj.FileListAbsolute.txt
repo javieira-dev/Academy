@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\obj\Debug\netcoreapp2.2\ContaBancariaExercicioException.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\obj\Debug\netcoreapp2.2\ContaBancariaExercicioException.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\obj\Debug\netcoreapp2.2\ContaBancariaExercicioException.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\obj\Debug\netcoreapp2.2\ContaBancariaExercicioException.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\bin\Debug\netcoreapp2.2\ContaBancariaExercicioException.deps.json
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\bin\Debug\netcoreapp2.2\ContaBancariaExercicioException.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\bin\Debug\netcoreapp2.2\ContaBancariaExercicioException.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\bin\Debug\netcoreapp2.2\ContaBancariaExercicioException.dll
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\bin\Debug\netcoreapp2.2\ContaBancariaExercicioException.pdb
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\obj\Debug\netcoreapp2.2\ContaBancariaExercicioException.dll
+C:\temp\WS_2021\Projects\C#\ContaBancariaExercicioException\ContaBancariaExercicioException\obj\Debug\netcoreapp2.2\ContaBancariaExercicioException.pdb

@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp2.2\ModificadorParams.deps.json
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp2.2\ModificadorParams.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp2.2\ModificadorParams.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp2.2\ModificadorParams.dll
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp2.2\ModificadorParams.pdb
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp2.2\ModificadorParams.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp2.2\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp2.2\ModificadorParams.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp2.2\ModificadorParams.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp2.2\ModificadorParams.dll
+C:\temp\WS_2021\Projects\C#\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp2.2\ModificadorParams.pdb

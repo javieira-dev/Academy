@@ -1,0 +1,10 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\bin\Debug\netcoreapp2.1\first.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\bin\Debug\netcoreapp2.1\first.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\bin\Debug\netcoreapp2.1\first.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\obj\Debug\netcoreapp2.1\first.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\obj\Debug\netcoreapp2.1\first.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\obj\Debug\netcoreapp2.1\first.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\obj\Debug\netcoreapp2.1\first.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\first\first\obj\Debug\netcoreapp2.1\first.pdb

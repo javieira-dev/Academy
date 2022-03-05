@@ -1,0 +1,16 @@
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\First_Properties.exe
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\First_Properties.deps.json
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\First_Properties.runtimeconfig.json
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\First_Properties.runtimeconfig.dev.json
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\First_Properties.dll
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\ref\First_Properties.dll
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\bin\Debug\net5.0\First_Properties.pdb
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.csprojAssemblyReference.cache
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.AssemblyInfoInputs.cache
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.AssemblyInfo.cs
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.csproj.CoreCompileInputs.cache
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.dll
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\ref\First_Properties.dll
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.pdb
+C:\Projects\Udemy\c#\II\First_Properties\First_Properties\obj\Debug\net5.0\First_Properties.genruntimeconfig.cache

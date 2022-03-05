@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\bin\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.deps.json
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\bin\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\bin\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\bin\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.dll
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\bin\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.pdb
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\obj\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\obj\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\obj\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\obj\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\obj\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.dll
+C:\temp\WS_2021\Projects\C#\ExoressaoCondicionalTernaria\ExoressaoCondicionalTernaria\obj\Debug\netcoreapp2.2\ExoressaoCondicionalTernaria.pdb

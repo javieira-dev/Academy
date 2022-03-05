@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\bin\Debug\netcoreapp2.2\ComposicaoDeObjeto.deps.json
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\bin\Debug\netcoreapp2.2\ComposicaoDeObjeto.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\bin\Debug\netcoreapp2.2\ComposicaoDeObjeto.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\bin\Debug\netcoreapp2.2\ComposicaoDeObjeto.dll
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\bin\Debug\netcoreapp2.2\ComposicaoDeObjeto.pdb
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\obj\Debug\netcoreapp2.2\ComposicaoDeObjeto.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\obj\Debug\netcoreapp2.2\ComposicaoDeObjeto.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\obj\Debug\netcoreapp2.2\ComposicaoDeObjeto.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\obj\Debug\netcoreapp2.2\ComposicaoDeObjeto.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\obj\Debug\netcoreapp2.2\ComposicaoDeObjeto.dll
+C:\temp\WS_2021\Projects\C#\ComposicaoDeObjeto\ComposicaoDeObjeto\obj\Debug\netcoreapp2.2\ComposicaoDeObjeto.pdb

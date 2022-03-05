@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\bin\Debug\netcoreapp2.2\ExercPolimorfismo.deps.json
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\bin\Debug\netcoreapp2.2\ExercPolimorfismo.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\bin\Debug\netcoreapp2.2\ExercPolimorfismo.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\bin\Debug\netcoreapp2.2\ExercPolimorfismo.dll
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\bin\Debug\netcoreapp2.2\ExercPolimorfismo.pdb
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\obj\Debug\netcoreapp2.2\ExercPolimorfismo.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\obj\Debug\netcoreapp2.2\ExercPolimorfismo.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\obj\Debug\netcoreapp2.2\ExercPolimorfismo.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\obj\Debug\netcoreapp2.2\ExercPolimorfismo.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\obj\Debug\netcoreapp2.2\ExercPolimorfismo.dll
+C:\temp\WS_2021\Projects\C#\ExercPolimorfismo\ExercPolimorfismo\obj\Debug\netcoreapp2.2\ExercPolimorfismo.pdb

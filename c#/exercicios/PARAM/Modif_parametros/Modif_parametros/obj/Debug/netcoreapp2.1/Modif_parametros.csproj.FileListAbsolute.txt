@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\bin\Debug\netcoreapp2.1\Modif_parametros.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\bin\Debug\netcoreapp2.1\Modif_parametros.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\bin\Debug\netcoreapp2.1\Modif_parametros.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\bin\Debug\netcoreapp2.1\Modif_parametros.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\bin\Debug\netcoreapp2.1\Modif_parametros.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\obj\Debug\netcoreapp2.1\Modif_parametros.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\obj\Debug\netcoreapp2.1\Modif_parametros.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\obj\Debug\netcoreapp2.1\Modif_parametros.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\obj\Debug\netcoreapp2.1\Modif_parametros.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\obj\Debug\netcoreapp2.1\Modif_parametros.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\PARAM\Modif_parametros\Modif_parametros\obj\Debug\netcoreapp2.1\Modif_parametros.pdb

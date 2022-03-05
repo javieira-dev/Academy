@@ -1,0 +1,10 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\bin\Debug\netcoreapp2.1\Out.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\bin\Debug\netcoreapp2.1\Out.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\bin\Debug\netcoreapp2.1\Out.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\bin\Debug\netcoreapp2.1\Out.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\bin\Debug\netcoreapp2.1\Out.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\obj\Debug\netcoreapp2.1\Out.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\obj\Debug\netcoreapp2.1\Out.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\obj\Debug\netcoreapp2.1\Out.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\obj\Debug\netcoreapp2.1\Out.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\OUT\Out\Out\obj\Debug\netcoreapp2.1\Out.pdb

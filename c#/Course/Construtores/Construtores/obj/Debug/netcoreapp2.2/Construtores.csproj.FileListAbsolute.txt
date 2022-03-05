@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\bin\Debug\netcoreapp2.2\Construtores.deps.json
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\bin\Debug\netcoreapp2.2\Construtores.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\bin\Debug\netcoreapp2.2\Construtores.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\bin\Debug\netcoreapp2.2\Construtores.dll
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\bin\Debug\netcoreapp2.2\Construtores.pdb
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\obj\Debug\netcoreapp2.2\Construtores.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\obj\Debug\netcoreapp2.2\Construtores.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\obj\Debug\netcoreapp2.2\Construtores.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\obj\Debug\netcoreapp2.2\Construtores.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\obj\Debug\netcoreapp2.2\Construtores.dll
+C:\temp\WS_2021\Projects\C#\Construtores\Construtores\obj\Debug\netcoreapp2.2\Construtores.pdb

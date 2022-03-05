@@ -1,0 +1,12 @@
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.deps.json
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.json
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.dev.json
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.dll
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csprojAssemblyReference.cache
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfoInputs.cache
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfo.cs
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.dll
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Projects\Udemy\exercicios\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.genruntimeconfig.cache

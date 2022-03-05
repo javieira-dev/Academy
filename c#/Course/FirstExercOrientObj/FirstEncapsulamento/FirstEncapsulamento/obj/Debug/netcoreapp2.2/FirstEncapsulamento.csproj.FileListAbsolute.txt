@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\bin\Debug\netcoreapp2.2\FirstEncapsulamento.deps.json
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\bin\Debug\netcoreapp2.2\FirstEncapsulamento.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\bin\Debug\netcoreapp2.2\FirstEncapsulamento.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\bin\Debug\netcoreapp2.2\FirstEncapsulamento.dll
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\bin\Debug\netcoreapp2.2\FirstEncapsulamento.pdb
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\obj\Debug\netcoreapp2.2\FirstEncapsulamento.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\obj\Debug\netcoreapp2.2\FirstEncapsulamento.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\obj\Debug\netcoreapp2.2\FirstEncapsulamento.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\obj\Debug\netcoreapp2.2\FirstEncapsulamento.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\obj\Debug\netcoreapp2.2\FirstEncapsulamento.dll
+C:\temp\WS_2021\Projects\C#\FirstEncapsulamento\FirstEncapsulamento\obj\Debug\netcoreapp2.2\FirstEncapsulamento.pdb

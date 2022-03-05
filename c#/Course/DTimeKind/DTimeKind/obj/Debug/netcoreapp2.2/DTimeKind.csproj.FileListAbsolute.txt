@@ -1,0 +1,10 @@
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\bin\Debug\netcoreapp2.2\DTimeKind.deps.json
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\bin\Debug\netcoreapp2.2\DTimeKind.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\bin\Debug\netcoreapp2.2\DTimeKind.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\bin\Debug\netcoreapp2.2\DTimeKind.dll
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\bin\Debug\netcoreapp2.2\DTimeKind.pdb
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\obj\Debug\netcoreapp2.2\DTimeKind.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\obj\Debug\netcoreapp2.2\DTimeKind.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\obj\Debug\netcoreapp2.2\DTimeKind.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\obj\Debug\netcoreapp2.2\DTimeKind.dll
+C:\temp\WS_2021\Projects\C#\DTimeKind\DTimeKind\obj\Debug\netcoreapp2.2\DTimeKind.pdb

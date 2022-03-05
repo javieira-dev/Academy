@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\bin\Debug\netcoreapp2.2\ExercList.deps.json
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\bin\Debug\netcoreapp2.2\ExercList.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\bin\Debug\netcoreapp2.2\ExercList.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\bin\Debug\netcoreapp2.2\ExercList.dll
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\bin\Debug\netcoreapp2.2\ExercList.pdb
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\obj\Debug\netcoreapp2.2\ExercList.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\obj\Debug\netcoreapp2.2\ExercList.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\obj\Debug\netcoreapp2.2\ExercList.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\obj\Debug\netcoreapp2.2\ExercList.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\obj\Debug\netcoreapp2.2\ExercList.dll
+C:\temp\WS_2021\Projects\C#\ExercList\ExercList\obj\Debug\netcoreapp2.2\ExercList.pdb

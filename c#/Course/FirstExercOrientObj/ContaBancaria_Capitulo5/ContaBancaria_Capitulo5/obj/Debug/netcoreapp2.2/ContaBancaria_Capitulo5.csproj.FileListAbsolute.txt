@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\bin\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.deps.json
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\bin\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\bin\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\bin\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.dll
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\bin\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.pdb
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\obj\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\obj\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\obj\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\obj\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\obj\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.dll
+C:\temp\WS_2021\Projects\C#\ContaBancaria_Capitulo5\ContaBancaria_Capitulo5\obj\Debug\netcoreapp2.2\ContaBancaria_Capitulo5.pdb

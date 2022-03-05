@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\bin\Debug\netcoreapp2.2\ModificParamsRefOut.deps.json
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\bin\Debug\netcoreapp2.2\ModificParamsRefOut.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\bin\Debug\netcoreapp2.2\ModificParamsRefOut.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\bin\Debug\netcoreapp2.2\ModificParamsRefOut.dll
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\bin\Debug\netcoreapp2.2\ModificParamsRefOut.pdb
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\obj\Debug\netcoreapp2.2\ModificParamsRefOut.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\obj\Debug\netcoreapp2.2\ModificParamsRefOut.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\obj\Debug\netcoreapp2.2\ModificParamsRefOut.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\obj\Debug\netcoreapp2.2\ModificParamsRefOut.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\obj\Debug\netcoreapp2.2\ModificParamsRefOut.dll
+C:\temp\WS_2021\Projects\C#\ModificParamsRefOut\ModificParamsRefOut\obj\Debug\netcoreapp2.2\ModificParamsRefOut.pdb

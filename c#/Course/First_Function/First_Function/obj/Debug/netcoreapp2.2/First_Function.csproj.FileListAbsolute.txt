@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\bin\Debug\netcoreapp2.2\First_Function.deps.json
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\bin\Debug\netcoreapp2.2\First_Function.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\bin\Debug\netcoreapp2.2\First_Function.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\bin\Debug\netcoreapp2.2\First_Function.dll
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\bin\Debug\netcoreapp2.2\First_Function.pdb
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\obj\Debug\netcoreapp2.2\First_Function.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\obj\Debug\netcoreapp2.2\First_Function.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\obj\Debug\netcoreapp2.2\First_Function.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\obj\Debug\netcoreapp2.2\First_Function.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\obj\Debug\netcoreapp2.2\First_Function.dll
+C:\temp\WS_2021\Projects\C#\First_Function\First_Function\obj\Debug\netcoreapp2.2\First_Function.pdb

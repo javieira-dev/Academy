@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\bin\Debug\netcoreapp2.2\Matriz.deps.json
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\bin\Debug\netcoreapp2.2\Matriz.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\bin\Debug\netcoreapp2.2\Matriz.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\bin\Debug\netcoreapp2.2\Matriz.dll
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\bin\Debug\netcoreapp2.2\Matriz.pdb
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\obj\Debug\netcoreapp2.2\Matriz.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\obj\Debug\netcoreapp2.2\Matriz.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\obj\Debug\netcoreapp2.2\Matriz.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\obj\Debug\netcoreapp2.2\Matriz.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\obj\Debug\netcoreapp2.2\Matriz.dll
+C:\temp\WS_2021\Projects\C#\Matriz\Matriz\obj\Debug\netcoreapp2.2\Matriz.pdb

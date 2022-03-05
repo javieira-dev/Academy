@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\bin\Debug\netcoreapp2.1\ExercOrientObjFunc.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\bin\Debug\netcoreapp2.1\ExercOrientObjFunc.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\bin\Debug\netcoreapp2.1\ExercOrientObjFunc.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\bin\Debug\netcoreapp2.1\ExercOrientObjFunc.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\bin\Debug\netcoreapp2.1\ExercOrientObjFunc.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\obj\Debug\netcoreapp2.1\ExercOrientObjFunc.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\obj\Debug\netcoreapp2.1\ExercOrientObjFunc.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\obj\Debug\netcoreapp2.1\ExercOrientObjFunc.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\obj\Debug\netcoreapp2.1\ExercOrientObjFunc.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\obj\Debug\netcoreapp2.1\ExercOrientObjFunc.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\EcercOtientacaoObj2\ExercOrientObjFunc\ExercOrientObjFunc\obj\Debug\netcoreapp2.1\ExercOrientObjFunc.pdb

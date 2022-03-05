@@ -1,0 +1,8 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\obj\Debug\StreamWriter_.csproj.AssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\obj\Debug\StreamWriter_.csproj.SuggestedBindingRedirects.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\obj\Debug\StreamWriter_.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

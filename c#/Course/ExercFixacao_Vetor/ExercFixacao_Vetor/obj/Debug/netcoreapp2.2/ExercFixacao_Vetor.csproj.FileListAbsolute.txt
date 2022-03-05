@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\bin\Debug\netcoreapp2.2\ExercFixacao_Vetor.deps.json
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\bin\Debug\netcoreapp2.2\ExercFixacao_Vetor.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\bin\Debug\netcoreapp2.2\ExercFixacao_Vetor.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\bin\Debug\netcoreapp2.2\ExercFixacao_Vetor.dll
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\bin\Debug\netcoreapp2.2\ExercFixacao_Vetor.pdb
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\obj\Debug\netcoreapp2.2\ExercFixacao_Vetor.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\obj\Debug\netcoreapp2.2\ExercFixacao_Vetor.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\obj\Debug\netcoreapp2.2\ExercFixacao_Vetor.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\obj\Debug\netcoreapp2.2\ExercFixacao_Vetor.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\obj\Debug\netcoreapp2.2\ExercFixacao_Vetor.dll
+C:\temp\WS_2021\Projects\C#\ExercFixacao_Vetor\ExercFixacao_Vetor\obj\Debug\netcoreapp2.2\ExercFixacao_Vetor.pdb

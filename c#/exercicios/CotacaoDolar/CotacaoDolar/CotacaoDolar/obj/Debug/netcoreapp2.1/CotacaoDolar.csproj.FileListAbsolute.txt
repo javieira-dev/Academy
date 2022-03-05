@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\CotacaoDolar\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.pdb

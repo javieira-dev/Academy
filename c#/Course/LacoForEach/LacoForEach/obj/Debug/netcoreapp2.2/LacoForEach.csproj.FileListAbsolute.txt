@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\bin\Debug\netcoreapp2.2\LacoForEach.deps.json
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\bin\Debug\netcoreapp2.2\LacoForEach.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\bin\Debug\netcoreapp2.2\LacoForEach.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\bin\Debug\netcoreapp2.2\LacoForEach.dll
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\bin\Debug\netcoreapp2.2\LacoForEach.pdb
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\obj\Debug\netcoreapp2.2\LacoForEach.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\obj\Debug\netcoreapp2.2\LacoForEach.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\obj\Debug\netcoreapp2.2\LacoForEach.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\obj\Debug\netcoreapp2.2\LacoForEach.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\obj\Debug\netcoreapp2.2\LacoForEach.dll
+C:\temp\WS_2021\Projects\C#\LacoForEach\LacoForEach\obj\Debug\netcoreapp2.2\LacoForEach.pdb

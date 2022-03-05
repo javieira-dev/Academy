@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\obj\Debug\netcoreapp2.2\ExercException.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\obj\Debug\netcoreapp2.2\ExercException.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\obj\Debug\netcoreapp2.2\ExercException.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\obj\Debug\netcoreapp2.2\ExercException.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\bin\Debug\netcoreapp2.2\ExercException.deps.json
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\bin\Debug\netcoreapp2.2\ExercException.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\bin\Debug\netcoreapp2.2\ExercException.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\bin\Debug\netcoreapp2.2\ExercException.dll
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\bin\Debug\netcoreapp2.2\ExercException.pdb
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\obj\Debug\netcoreapp2.2\ExercException.dll
+C:\temp\WS_2021\Projects\C#\ExercException\ExercException\obj\Debug\netcoreapp2.2\ExercException.pdb

@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\bin\Debug\netcoreapp2.1\ExercOrientacaoObj1.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\bin\Debug\netcoreapp2.1\ExercOrientacaoObj1.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\bin\Debug\netcoreapp2.1\ExercOrientacaoObj1.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\bin\Debug\netcoreapp2.1\ExercOrientacaoObj1.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\bin\Debug\netcoreapp2.1\ExercOrientacaoObj1.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\obj\Debug\netcoreapp2.1\ExercOrientacaoObj1.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\obj\Debug\netcoreapp2.1\ExercOrientacaoObj1.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\obj\Debug\netcoreapp2.1\ExercOrientacaoObj1.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\obj\Debug\netcoreapp2.1\ExercOrientacaoObj1.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\obj\Debug\netcoreapp2.1\ExercOrientacaoObj1.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\ExercOrientacaoObj1\ExercOrientacaoObj1\obj\Debug\netcoreapp2.1\ExercOrientacaoObj1.pdb

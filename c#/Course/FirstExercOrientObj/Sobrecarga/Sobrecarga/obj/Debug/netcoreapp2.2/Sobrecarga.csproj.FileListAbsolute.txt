@@ -1,0 +1,10 @@
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.deps.json
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.dll
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp2.2\Sobrecarga.pdb
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.dll
+C:\temp\WS_2021\Projects\C#\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp2.2\Sobrecarga.pdb

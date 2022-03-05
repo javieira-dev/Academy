@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\First_While\First_While\bin\Debug\netcoreapp2.2\First_While.deps.json
+C:\temp\WS_2021\Projects\C#\First_While\First_While\bin\Debug\netcoreapp2.2\First_While.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\First_While\First_While\bin\Debug\netcoreapp2.2\First_While.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\First_While\First_While\bin\Debug\netcoreapp2.2\First_While.dll
+C:\temp\WS_2021\Projects\C#\First_While\First_While\bin\Debug\netcoreapp2.2\First_While.pdb
+C:\temp\WS_2021\Projects\C#\First_While\First_While\obj\Debug\netcoreapp2.2\First_While.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\First_While\First_While\obj\Debug\netcoreapp2.2\First_While.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\First_While\First_While\obj\Debug\netcoreapp2.2\First_While.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\First_While\First_While\obj\Debug\netcoreapp2.2\First_While.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\First_While\First_While\obj\Debug\netcoreapp2.2\First_While.dll
+C:\temp\WS_2021\Projects\C#\First_While\First_While\obj\Debug\netcoreapp2.2\First_While.pdb

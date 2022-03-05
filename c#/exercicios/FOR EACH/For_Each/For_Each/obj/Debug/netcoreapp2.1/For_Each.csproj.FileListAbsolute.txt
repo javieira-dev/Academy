@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\bin\Debug\netcoreapp2.1\For_Each.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\bin\Debug\netcoreapp2.1\For_Each.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\bin\Debug\netcoreapp2.1\For_Each.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\bin\Debug\netcoreapp2.1\For_Each.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\bin\Debug\netcoreapp2.1\For_Each.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\obj\Debug\netcoreapp2.1\For_Each.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\obj\Debug\netcoreapp2.1\For_Each.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\obj\Debug\netcoreapp2.1\For_Each.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\obj\Debug\netcoreapp2.1\For_Each.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\obj\Debug\netcoreapp2.1\For_Each.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\FOR EACH\For_Each\For_Each\obj\Debug\netcoreapp2.1\For_Each.pdb

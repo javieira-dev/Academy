@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\bin\Debug\netcoreapp2.2\IntroducaoPolimorfismo.deps.json
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\bin\Debug\netcoreapp2.2\IntroducaoPolimorfismo.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\bin\Debug\netcoreapp2.2\IntroducaoPolimorfismo.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\bin\Debug\netcoreapp2.2\IntroducaoPolimorfismo.dll
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\bin\Debug\netcoreapp2.2\IntroducaoPolimorfismo.pdb
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\obj\Debug\netcoreapp2.2\IntroducaoPolimorfismo.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\obj\Debug\netcoreapp2.2\IntroducaoPolimorfismo.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\obj\Debug\netcoreapp2.2\IntroducaoPolimorfismo.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\obj\Debug\netcoreapp2.2\IntroducaoPolimorfismo.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\obj\Debug\netcoreapp2.2\IntroducaoPolimorfismo.dll
+C:\temp\WS_2021\Projects\C#\IntroducaoPolimorfismo\IntroducaoPolimorfismo\obj\Debug\netcoreapp2.2\IntroducaoPolimorfismo.pdb

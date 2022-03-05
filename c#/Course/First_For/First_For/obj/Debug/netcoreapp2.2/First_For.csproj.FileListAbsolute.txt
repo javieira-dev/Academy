@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\First_For\First_For\bin\Debug\netcoreapp2.2\First_For.deps.json
+C:\temp\WS_2021\Projects\C#\First_For\First_For\bin\Debug\netcoreapp2.2\First_For.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\First_For\First_For\bin\Debug\netcoreapp2.2\First_For.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\First_For\First_For\bin\Debug\netcoreapp2.2\First_For.dll
+C:\temp\WS_2021\Projects\C#\First_For\First_For\bin\Debug\netcoreapp2.2\First_For.pdb
+C:\temp\WS_2021\Projects\C#\First_For\First_For\obj\Debug\netcoreapp2.2\First_For.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\First_For\First_For\obj\Debug\netcoreapp2.2\First_For.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\First_For\First_For\obj\Debug\netcoreapp2.2\First_For.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\First_For\First_For\obj\Debug\netcoreapp2.2\First_For.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\First_For\First_For\obj\Debug\netcoreapp2.2\First_For.dll
+C:\temp\WS_2021\Projects\C#\First_For\First_For\obj\Debug\netcoreapp2.2\First_For.pdb

@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\exercicios\List\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.pdb

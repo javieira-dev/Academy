@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\bin\Debug\netcoreapp2.2\FirstExercOrientObj.deps.json
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\bin\Debug\netcoreapp2.2\FirstExercOrientObj.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\bin\Debug\netcoreapp2.2\FirstExercOrientObj.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\bin\Debug\netcoreapp2.2\FirstExercOrientObj.dll
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\bin\Debug\netcoreapp2.2\FirstExercOrientObj.pdb
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\obj\Debug\netcoreapp2.2\FirstExercOrientObj.csprojAssemblyReference.cache
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\obj\Debug\netcoreapp2.2\FirstExercOrientObj.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\obj\Debug\netcoreapp2.2\FirstExercOrientObj.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\obj\Debug\netcoreapp2.2\FirstExercOrientObj.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\obj\Debug\netcoreapp2.2\FirstExercOrientObj.dll
+C:\temp\WS_2021\Projects\C#\FirstExercOrientObj\FirstExercOrientObj\obj\Debug\netcoreapp2.2\FirstExercOrientObj.pdb

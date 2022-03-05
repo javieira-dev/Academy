@@ -1,0 +1,16 @@
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\First_For.exe
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\First_For.deps.json
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\First_For.runtimeconfig.json
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\First_For.runtimeconfig.dev.json
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\First_For.dll
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\ref\First_For.dll
+C:\Projects\Udemy\c#\First_For\First_For\bin\Debug\net5.0\First_For.pdb
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.csprojAssemblyReference.cache
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.AssemblyInfoInputs.cache
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.AssemblyInfo.cs
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.csproj.CoreCompileInputs.cache
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.dll
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\ref\First_For.dll
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.pdb
+C:\Projects\Udemy\c#\First_For\First_For\obj\Debug\net5.0\First_For.genruntimeconfig.cache

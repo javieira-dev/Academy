@@ -1,0 +1,11 @@
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\bin\Debug\netcoreapp2.1\OperadorLogico.deps.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\bin\Debug\netcoreapp2.1\OperadorLogico.runtimeconfig.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\bin\Debug\netcoreapp2.1\OperadorLogico.runtimeconfig.dev.json
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\bin\Debug\netcoreapp2.1\OperadorLogico.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\bin\Debug\netcoreapp2.1\OperadorLogico.pdb
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\obj\Debug\netcoreapp2.1\OperadorLogico.csprojAssemblyReference.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\obj\Debug\netcoreapp2.1\OperadorLogico.csproj.CoreCompileInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\obj\Debug\netcoreapp2.1\OperadorLogico.AssemblyInfoInputs.cache
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\obj\Debug\netcoreapp2.1\OperadorLogico.AssemblyInfo.cs
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\obj\Debug\netcoreapp2.1\OperadorLogico.dll
+C:\Users\javieira\OneDrive - Disal Tecnologia da Informação LTDA\CURSOS\C#\Operador Logico\OperadorLogico\OperadorLogico\obj\Debug\netcoreapp2.1\OperadorLogico.pdb

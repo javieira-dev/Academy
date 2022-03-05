@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp2.2\FuncoesParaString.deps.json
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp2.2\FuncoesParaString.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp2.2\FuncoesParaString.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp2.2\FuncoesParaString.dll
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\bin\Debug\netcoreapp2.2\FuncoesParaString.pdb
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp2.2\FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp2.2\FuncoesParaString.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp2.2\FuncoesParaString.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp2.2\FuncoesParaString.dll
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp2.2\FuncoesParaString.pdb
+C:\temp\WS_2021\Projects\C#\FuncoesParaString\FuncoesParaString\obj\Debug\netcoreapp2.2\FuncoesParaString.csprojAssemblyReference.cache

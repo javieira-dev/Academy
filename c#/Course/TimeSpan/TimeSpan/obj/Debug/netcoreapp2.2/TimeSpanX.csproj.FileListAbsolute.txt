@@ -1,0 +1,11 @@
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\bin\Debug\netcoreapp2.2\TimeSpanX.deps.json
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\bin\Debug\netcoreapp2.2\TimeSpanX.runtimeconfig.json
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\bin\Debug\netcoreapp2.2\TimeSpanX.runtimeconfig.dev.json
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\bin\Debug\netcoreapp2.2\TimeSpanX.dll
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\bin\Debug\netcoreapp2.2\TimeSpanX.pdb
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp2.2\TimeSpanX.csproj.CoreCompileInputs.cache
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp2.2\TimeSpanX.AssemblyInfoInputs.cache
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp2.2\TimeSpanX.AssemblyInfo.cs
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp2.2\TimeSpanX.dll
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp2.2\TimeSpanX.pdb
+C:\temp\WS_2021\Projects\C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp2.2\TimeSpanX.csprojAssemblyReference.cache

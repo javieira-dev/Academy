@@ -1,0 +1,16 @@
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\TRiangulo_InicioOrientacao.exe
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\TRiangulo_InicioOrientacao.deps.json
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\TRiangulo_InicioOrientacao.runtimeconfig.json
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\TRiangulo_InicioOrientacao.runtimeconfig.dev.json
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\TRiangulo_InicioOrientacao.dll
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\ref\TRiangulo_InicioOrientacao.dll
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\bin\Debug\net5.0\TRiangulo_InicioOrientacao.pdb
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.csprojAssemblyReference.cache
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.AssemblyInfoInputs.cache
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.AssemblyInfo.cs
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.csproj.CoreCompileInputs.cache
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.dll
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\ref\TRiangulo_InicioOrientacao.dll
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.pdb
+C:\Projects\Udemy\c#\TRiangulo_InicioOrientacao\TRiangulo_InicioOrientacao\obj\Debug\net5.0\TRiangulo_InicioOrientacao.genruntimeconfig.cache
